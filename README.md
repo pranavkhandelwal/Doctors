@@ -1,4 +1,0 @@
-Doctors
-=======
-
-Doctor Clinic project
